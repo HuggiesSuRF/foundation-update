@@ -29,6 +29,7 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 18972688180 - The Dragon's Lair - Move the map to keep the main area within reasonable bounds to avoid float imprecision (fixes ladder climbing)
+100943407993599 - Aeiou - Fixed Door Headclips and boost pads to adjust to new hitboxes due to hitbox change during phyiscs update
 
 add map data:
 
